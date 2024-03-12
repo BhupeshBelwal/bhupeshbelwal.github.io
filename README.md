@@ -15,41 +15,29 @@
 - Business Process Reengineering
 - Data Analysis and Visualization using Spreadsheet, Python and Power BI
 ## Experience
+####Associate Software Engineer
+####Tech Mahindra Limited, Sydney
+- Take calls from business users, log ticket, action the ticket to close or triage them to the relevant team
+- Escalate to relevant team as outlined in SOP for priority tickets including P1 and P2 tickets
+- Initiate the bridge call if any P1 and P2 issues
+- Send communication to business users as required
+- Support, mentor and manage the team to deliver the key KPI including first call resolution target
+- 24+7 monitoring of the servers and devices hosted in the Data Centre
+- Preparing/ Assisting in preparation of Daily, Weekly and monthly reports
+- Send out incident dump report on a daily basis to all relevant support team
 
-Associate Software Engineer
-Tech Mahindra Limited, Sydney
--Take calls from business users, log ticket, action the ticket to close or triage them to the relevant team
-•	Escalate to relevant team as outlined in SOP for priority tickets including P1 and P2 tickets
-•	Initiate the bridge call if any P1 and P2 issues
-•	Send communication to business users as required
-•	Support, mentor and manage the team to deliver the key KPI including first call resolution target
-•	24+7 monitoring of the servers and devices hosted in the Data Centre
-•	Preparing/ Assisting in preparation of Daily, Weekly and monthly reports
-•	Send out incident dump report on a daily basis to all relevant support team
-
-Junior Business Analyst									Feb 2016 – Feb 2018
-Value Cyber Tech Pvt. Ltd, Hyderabad
-•	Collaborating with stakeholders to understand and document business needs, objectives and requirements
-•	Creating detailed and comprehensive Business Requirement Document (BRD)
-•	Collaborating with technical teams to design new business processes, systems, or software solutions meeting the identified business requirements
-•	Engaging and managing relationships with stakeholders, including business users, project managers, developers, and testers, to ensure effective communication and alignment of business and technical needs.
-•	Developing test plans, test cases and conducting testing to verify that the implemented solution meets the specified requirements.
-•	Providing end-user training and support during the implementation phase.
-•	Analyzing the success and effectiveness of the implemented solutions and suggesting further improvements. 
-•	Identifying improvement opportunities for ongoing processes or systems
-
-Soft Skills
-•	Strong Analytical Skills
-•	Attention to details
-•	Highly Organized
-•	Initiative Driven
-•	Collaborative
-•	Delivering positive customer engagement
-•	Interpersonal skills
-•	Flexibility
-•	Adaptability
-
-Education
+####Junior Business Analyst									Feb 2016 – Feb 2018
+####Value Cyber Tech Pvt. Ltd, Hyderabad
+- Collaborating with stakeholders to understand and document business needs, objectives and requirements
+- Creating detailed and comprehensive Business Requirement Document (BRD)
+- Collaborating with technical teams to design new business processes, systems, or software solutions meeting the identified business requirements
+- Engaging and managing relationships with stakeholders, including business users, project managers, developers, and testers, to ensure effective communication and alignment of business 
+  and technical needs.
+- Developing test plans, test cases and conducting testing to verify that the implemented solution meets the specified requirements.
+- Providing end-user training and support during the implementation phase.
+- Analyzing the success and effectiveness of the implemented solutions and suggesting further improvements. 
+- Identifying improvement opportunities for ongoing processes or systems
+##Education
 
 Professional Year 		May 2021 – Feb 2022
 Performance Education, City
