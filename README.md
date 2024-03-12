@@ -40,11 +40,13 @@
 ## Education
 #### Master of Information Technology
 Queensland University of Technology
-Special interest in: Business Process Management
+- Special interest in: Business Process Management
 #### Bachelor of Engineering (Mechanical)
 Uttarakhand Technical University 
-Key learning areas included: Strength of Materials, Thermodynamics,
-Refrigeration and Heat effects.
+- Key learning areas included:
+  - Strength of Materials
+  - Thermodynamics
+  - Refrigeration and Heat effects.
 ## Certifications
 #### Google Certified
 #### Foundations of Project Management
