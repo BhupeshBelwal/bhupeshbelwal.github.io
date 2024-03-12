@@ -25,7 +25,6 @@
 - 24+7 monitoring of the servers and devices hosted in the Data Centre
 - Preparing/ Assisting in preparation of Daily, Weekly and monthly reports
 - Send out incident dump report on a daily basis to all relevant support team
-
 #### Junior Business Analyst
 #### Value Cyber Tech Pvt. Ltd, Hyderabad
 - Collaborating with stakeholders to understand and document business needs, objectives and requirements
