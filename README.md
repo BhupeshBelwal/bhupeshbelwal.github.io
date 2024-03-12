@@ -1,19 +1,19 @@
 # Business Analyst
 ### Technical skills: Excel(Advanced, with ChatGPT and AI), Power BI, Python, Jira, MS Azure
 ## Responsibilities
-      -Defining project objectives, project scope, roles and responsibilities
-      -	Defining resource requirements and managing resource availability allocation both internal and third party
-      -	Tracking project and providing regular reports on project status to the project team and key stakeholders
-      -	Managing and adjusting for any changes in project scope, schedule
-      -	Managing the relationship and communication with the client and all stakeholders, ensuring the project is delivered to their              satisfaction
-      -	Creating Requirement Models (Use Cases, Wireframes, Data models)
-      -	Risk and Impact Analysis
-      -	Strong understanding of Software Development Life Cycle
-      -	Testing of applications mobile app, website
-      -	Excel dashboard creation and Power BI reporting.
-      -	Documentation
-      -	Business Process Reengineering
-      -	Data Analysis and Visualization using Spreadsheet, Python and Power BI
+      - Defining project objectives, project scope, roles and responsibilities
+      - Defining resource requirements and managing resource availability allocation both internal and third party
+      - Tracking project and providing regular reports on project status to the project team and key stakeholders
+      - Managing and adjusting for any changes in project scope, schedule
+      - Managing the relationship and communication with the client and all stakeholders, ensuring the project is delivered to their              satisfaction
+      - Creating Requirement Models (Use Cases, Wireframes, Data models)
+      - Risk and Impact Analysis
+      - Strong understanding of Software Development Life Cycle
+      - Testing of applications mobile app, website
+      - Excel dashboard creation and Power BI reporting.
+      - Documentation
+      - Business Process Reengineering
+      - Data Analysis and Visualization using Spreadsheet, Python and Power BI
 ## Experience
 
 Associate Software Engineer
