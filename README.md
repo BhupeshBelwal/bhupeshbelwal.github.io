@@ -45,7 +45,7 @@ Special interest in: Business Process Management
 Uttarakhand Technical University 
 Key learning areas included: Strength of Materials, Thermodynamics,
 Refrigeration and Heat effects.
-##Certification
+## Certifications
 #### Google Certified
 #### Foundations of Project Management
 (8DMNG36ZRAFV)
