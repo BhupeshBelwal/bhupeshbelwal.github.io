@@ -15,8 +15,8 @@
 - Business Process Reengineering
 - Data Analysis and Visualization using Spreadsheet, Python and Power BI
 ## Experience
-####Associate Software Engineer
-####Tech Mahindra Limited, Sydney
+###Associate Software Engineer
+###Tech Mahindra Limited, Sydney
 - Take calls from business users, log ticket, action the ticket to close or triage them to the relevant team
 - Escalate to relevant team as outlined in SOP for priority tickets including P1 and P2 tickets
 - Initiate the bridge call if any P1 and P2 issues
@@ -26,8 +26,8 @@
 - Preparing/ Assisting in preparation of Daily, Weekly and monthly reports
 - Send out incident dump report on a daily basis to all relevant support team
 
-####Junior Business Analyst									Feb 2016 – Feb 2018
-####Value Cyber Tech Pvt. Ltd, Hyderabad
+###Junior Business Analyst									Feb 2016 – Feb 2018
+###Value Cyber Tech Pvt. Ltd, Hyderabad
 - Collaborating with stakeholders to understand and document business needs, objectives and requirements
 - Creating detailed and comprehensive Business Requirement Document (BRD)
 - Collaborating with technical teams to design new business processes, systems, or software solutions meeting the identified business requirements
@@ -38,7 +38,6 @@
 - Analyzing the success and effectiveness of the implemented solutions and suggesting further improvements. 
 - Identifying improvement opportunities for ongoing processes or systems
 ##Education
-
 Professional Year 		May 2021 – Feb 2022
 Performance Education, City
 Key Subjects: Australian Business Culture and Environment, Achieving Career 
