@@ -1,26 +1,24 @@
 # Business Analyst
-## Technical skills: Excel(Advanced, with ChatGPT and AI), Power BI, Python, Jira, MS Azure
-  Dedicated and results-driven Business Analyst with a proven track record in business analysis and software engineering. Seeking a         challenging role where I can leverage my technical expertise, stakeholder management skills, and agile project management proficiency     to drive project success and contribute to the growth of a dynamic organization. Managing cross-functional supplier teams from various    cultural backgrounds resulting in the delivery of stable IT services & innovative solutions. Experienced in establishing budget           controls, enabling consensus building, crisis & risk management, problem solving and negotiations, with proficiency in requirement        elicitation, process improvement, and data analysis with Python and Power BI. My goal is to lead high-performing teams, deliver quality   solutions, and provide valuable insights to support effective decision-making.
-  ## Responsibilities
-      •	Defining project objectives, project scope, roles and responsibilities
-      •	Defining resource requirements and managing resource availability allocation both internal and third party
-      •	Tracking project and providing regular reports on project status to the project team and key stakeholders
-      •	Managing and adjusting for any changes in project scope, schedule
-      •	Managing the relationship and communication with the client and all stakeholders, ensuring the project is delivered to their              satisfaction
-      •	Creating Requirement Models (Use Cases, Wireframes, Data models)
-      •	Risk and Impact Analysis
-      •	Strong understanding of Software Development Life Cycle
-      •	Testing of applications mobile app, website
-      •	Excel dashboard creation and Power BI reporting.
-      •	Documentation
-      •	Business Process Reengineering
-      •	Data Analysis and Visualization using Spreadsheet, Python and Power BI
-
+### Technical skills: Excel(Advanced, with ChatGPT and AI), Power BI, Python, Jira, MS Azure
+## Responsibilities
+      -Defining project objectives, project scope, roles and responsibilities
+      -	Defining resource requirements and managing resource availability allocation both internal and third party
+      -	Tracking project and providing regular reports on project status to the project team and key stakeholders
+      -	Managing and adjusting for any changes in project scope, schedule
+      -	Managing the relationship and communication with the client and all stakeholders, ensuring the project is delivered to their              satisfaction
+      -	Creating Requirement Models (Use Cases, Wireframes, Data models)
+      -	Risk and Impact Analysis
+      -	Strong understanding of Software Development Life Cycle
+      -	Testing of applications mobile app, website
+      -	Excel dashboard creation and Power BI reporting.
+      -	Documentation
+      -	Business Process Reengineering
+      -	Data Analysis and Visualization using Spreadsheet, Python and Power BI
 ## Experience
 
-Associate Software Engineer								Feb 2022 – Nov 2022
+Associate Software Engineer
 Tech Mahindra Limited, Sydney
-•	Take calls from business users, log ticket, action the ticket to close or triage them to the relevant team
+-Take calls from business users, log ticket, action the ticket to close or triage them to the relevant team
 •	Escalate to relevant team as outlined in SOP for priority tickets including P1 and P2 tickets
 •	Initiate the bridge call if any P1 and P2 issues
 •	Send communication to business users as required
